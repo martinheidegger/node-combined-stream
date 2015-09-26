@@ -92,6 +92,11 @@ If this value is exceeded, `combinedStream` emits an `'error'` event.
 
 The amount of bytes (or characters) currently buffered by `combinedStream`.
 
+### combinedStream.autoEnd = `true`
+
+If true it will automatically dispatch an end event after all streams are read.
+Else you have to call end manually.
+
 ### combinedStream.append(stream)
 
 Appends the given `stream` to the combinedStream object. If `pauseStreams` is
