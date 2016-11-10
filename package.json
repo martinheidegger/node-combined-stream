@@ -2,7 +2,7 @@
   "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
   "name": "combined-stream-wait-for-it",
   "description": "A stream that emits multiple other streams one after another with support for waiting.",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "homepage": "https://github.com/felixge/node-combined-stream",
   "repository": {
     "type": "git",
