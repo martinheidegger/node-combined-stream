@@ -1,3 +1,8 @@
+# Disclaimer
+
+This is a fork of of `node-combined-stream`. Published in a hurry
+due to inpatience for https://github.com/felixge/node-combined-stream/pull/31
+
 # combined-stream
 
 A stream that emits multiple other streams one after another.
